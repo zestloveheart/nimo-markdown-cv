@@ -1,7 +1,7 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
-email: woden@cs.cmu.edu
+title: 邹礼华
+email: zlh429375251@qq.com
 homepage:
     url: http://cs.cmu.edu/~woden
     text: cs.cmu.edu/~woden
